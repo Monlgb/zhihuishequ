@@ -1,2 +1,2 @@
 # zhihuishequ
-智慧社区
+我是傻逼
